@@ -35,6 +35,10 @@
  I was supplied the front end by Trilogy and University of Denver, and I built the service-worker, indexedDB and webmanifest.
   
  
+ 
+ ## Screenshot 
+ ![home](https://github.com/pprewitt/TrailsApp/blob/master/assets/images/gohiking.gif)
+ 
 ## License 
  This application is Unlicensed.
   
