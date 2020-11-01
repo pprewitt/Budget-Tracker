@@ -7,7 +7,7 @@
   
  
  ## Description 
- Beginner Progressive Web Application assignment in my full stack web bootcamp. I built the indexedDB service-worker and webmanifest. 
+ Beginner Progressive Web Application assignment in my full stack web bootcamp. I built the indexedDB, service-worker, and webmanifest. 
   
  
  # Table of Contents 
@@ -28,7 +28,7 @@
   
  
 ## Usage 
- For travellers, you arent always sure where you will have cell service. This application gives the user the opportunity to bugdet their cash offline or while connected to the mongo database (which could be configured to send secure API calls to a banking database). 
+ For travellers, you aren't always sure where you will have cell service. This application gives the user the opportunity to bugdet their cash offline or while connected to the mongo database (which could be configured to send secure API calls to a banking database). 
   
  
 ## Credits 
@@ -36,7 +36,7 @@
   
  
 ## License 
- This application is Unlicensed licensed
+ This application is Unlicensed.
   
  
 ## Contribution 
