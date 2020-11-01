@@ -37,7 +37,7 @@
  
  
  ## Screenshot 
- ![home](https://github.com/pprewitt/TrailsApp/blob/master/assets/images/gohiking.gif)
+ ![home](https://github.com/pprewitt/Budget-Tracker/blob/main/public/budgettrackerDemo.gif)
  
 ## License 
  This application is Unlicensed.
